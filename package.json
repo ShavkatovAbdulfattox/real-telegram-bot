@@ -1,0 +1,22 @@
+{
+  "name": "apple-gold-uz-bot",
+  "version": "1.0.0",
+  "description": "APPLE GOLD CHANNEL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "back": "nohup node index &",
+    "pm2": "pm2 start index.js"
+  },
+  "author": "Ismail Useinov",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "telegraf": "^4.4.0",
+    "telegraf-i18n": "^6.6.0"
+  }
+}
