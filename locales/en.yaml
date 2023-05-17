@@ -1,0 +1,75 @@
+go: |
+  Assalomu aleykum, ${ctx.message.from.first_name ? ctx.message.from.first_name : "Notanish"}!
+
+  Bu telegram bot APPLE GOLD magazini uchun qillingan , buning yordami orqali siz ozingizga kerakli malumotlar olishingiz mumkun.
+
+  Masalam ::
+
+       1. 💁  Nasiya savdoga olish uchun qanaqa xujjatla kerak
+       2. 💁  Qanaqa telefonla bizda mavjud 
+       3. 📍  Magazin joylashuvimiza (LOKATSIYA)
+
+
+  @apple_gold_uz - bu bizning kanal.
+
+  @Abdurahmon_Shovkat - admin bilan bog'lanish
+
+command: |
+  
+  <b>Команды:</b>  
+  /start - Перезапустить ботa
+
+shop: |
+  Elektron do'koniga xush kelibsiz (NASIYA SAVDO) APPLE GOLD. Bu yerda siz 11 - 14 PRO MAX dan IPHONE ning barcha modellari va ranglarini topishingiz mumkin.
+  Bozorda mavjud bo'lgan vaqtimizda mijozlarimizning 90% doimiy mijozlarga aylanadi.
+  Biz haftada 7 kun 10:00 dan 20:00 gacha ishlaymiz.
+  Bizga tashrif buyuring, biz har doim sizga mos gadjetni topishga yordam beramiz.
+
+location: |
+ 📍 Malika bozor (Texno olam) 
+ 🏬 Blok C - 16 Magazin 
+
+feedback: |
+  🤔 Admin bilan boglanish uchun, APPLE GOLD UZ kanaliga obuna boling .
+
+documents: |
+
+  Telefon Nasiyaga olish uchun 👇
+
+    💁 Qnaday xujjatlar kerak      
+    -Passport bolishi shart (Propiska axamyatsiz)
+  
+    🙋‍♀️ Siz sorashingiz mumkun, boldimi ?!
+    🤩 Albatta xa .
+     
+  _______________________________
+  Kop beriladigan sovollar
+
+  ⁉️ Birinchi tolov qancha tolanadi 📱? 
+ 
+      Birinchi tolov 40% - 50% 
+
+  ⁉️ Necha oygacha berasila 🗓️? 
+     
+      3 oydan 8 oygacha beriladi
+
+  ⁉️ Garantiya bormi  🙋? 
+      
+    Albatta bizda garantiya bor
+  _______________________________
+ 
+  Bizda qanday qoidalar bor 👇
+
+rules: |
+  🗣️ Siz telefon nasiya olganizdan keyin :
+
+  Siz pulni o'z vaqtida to'lashingiz kerak 😇💸 
+    _______________________________
+
+  Va agar to'lov muddati o'tib ketsa (2 yoki 3 kun), bu kunlar uchun foiz olinmayd 🤝🏻  
+    _______________________________
+
+  Ammo hech qanday sababsiz 3 kundan ortiq vaqtni o‘tkazib yuborsangiz, telefoningiz iCloud orqali avtomatik ravishda bloklanadi 🙄  
+    _______________________________
+
+  Va agar hozirda sizda qandaydir muammo bo'lsa va shu sababli to'lay olmasangiz, biz sizga vaqt beramiz (bir oy) va keyin (bir oydan keyin) qolgan miqdorni to'lashda davom etasiz.🤗

@@ -29,5 +29,4 @@ function send_msg_action(id, src, text, composer, keyboard=[[]], preview=false) 
     })
   }
   
-  module.exports.send_msg_action = send_msg_action +
-  0
+  module.exports.send_msg_action = send_msg_action;
