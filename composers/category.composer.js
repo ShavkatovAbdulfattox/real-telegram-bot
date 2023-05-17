@@ -5,6 +5,8 @@ const lib = require("../modules/lib");
 // Обработка кнопок из категории Редакторы кода
 composer.action("btn_category1", async (ctx) => {
   try {
+    const selectedLanguage = ctx.session?.selectedLanguage || "ru";
+    await ctx.i18n.locale(selectedLanguage);
     await ctx.answerCbQuery();
     await ctx.replyWithPhoto({
       source:"images/rules.jpg"

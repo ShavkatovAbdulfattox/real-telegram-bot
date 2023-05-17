@@ -19,6 +19,7 @@ bot.use(i18n.middleware());
 
 bot.use(require("./composers/start.composer")); 
 bot.use(require("./composers/menu.composer"));
+bot.use(require("./composers/uzmenu.composer"));
 bot.use(require("./composers/category.composer"));
 
 bot.launch();

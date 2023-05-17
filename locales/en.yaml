@@ -1,4 +1,4 @@
-go: |
+start: |
   Assalomu aleykum, ${ctx.message.from.first_name ? ctx.message.from.first_name : "Notanish"}!
 
   Bu telegram bot APPLE GOLD magazini uchun qillingan , buning yordami orqali siz ozingizga kerakli malumotlar olishingiz mumkun.

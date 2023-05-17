@@ -6,12 +6,12 @@ const composer = new Composer();
 composer.start((ctx) => {
   // Create the language selection keyboard
   const keyboard = Markup.inlineKeyboard([
-    Markup.button.callback("🇬🇧 O'zbek", "en"),
+    Markup.button.callback("🇺🇿 O'zbek", "en"),
     Markup.button.callback("🇷🇺 Русский", "ru"),
   ]);
 
   // Send the language selection message with the keyboard
-  ctx.reply("Select your language:", keyboard);
+  ctx.reply("Tilni tanlang:", keyboard);
 });
 // Language selection callback handler
 composer.action("en", (ctx) => {
